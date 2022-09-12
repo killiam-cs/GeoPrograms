@@ -1,7 +1,7 @@
 public class A1_HowToMove extends World {
 
     //This is the method that your program looks for and executes when you 'run' it
-    public void go() {
+    public void go() { // for first commit to remote
 
         System.out.println("This message will be printed to the window below.");
         System.out.println("That window is called the dos window");
